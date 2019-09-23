@@ -640,14 +640,6 @@ pre {
 .offset-11 {
   margin-left: 91.66667%; }
 
-/* Custom Styles */
-
-#navbarCollapse ul {
-    display: none;
-}
-
-/* End Custom Styles */
-
 @media (min-width: 576px) {
   .col-sm {
     flex-basis: 0;
